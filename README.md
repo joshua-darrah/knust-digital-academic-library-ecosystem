@@ -1,5 +1,5 @@
 # 📚 KNUST Digital Academic Library Ecosystem
-
+![Header Image](.\assets\readmeHeader.png)
 ---
 
 ## 🌍 Overview
